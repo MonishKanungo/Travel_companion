@@ -3,7 +3,7 @@ Create detailed day-by-day travel plans based on destination, interests, budget,
 
 Weather-aware planning with clothing recommendations and activity alternatives
 
-nhanced travel information through intelligent web search integration
+Enhanced travel information through intelligent web search integration
 
 Get travel route suggestions between source and destination locations
 
